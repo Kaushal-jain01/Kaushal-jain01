@@ -1,5 +1,6 @@
-<h1>👋 Hi, I'm Kaushal Jain.</h1>
-<p>Software Engineer skilled in Python, Django, SQL and Backend Development.</p>
+<h1>About Me</h1>
+<p>👋 Hi, I'm Kaushal Jain.</p>
+<p>Backend Developer skilled in Python, Django, DRF and SQL.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
