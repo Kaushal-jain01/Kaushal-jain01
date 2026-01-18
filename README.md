@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 <p>👋 Hi, I'm Kaushal Jain.</p>
-<p>Backend Developer skilled in Python, Django, DRF and SQL.</p>
+<p>Full Stack Developer skilled in Python, Django, DRF, React and SQL.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
