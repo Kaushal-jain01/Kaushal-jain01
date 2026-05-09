@@ -1,79 +1,22 @@
-<h1>About Me</h1>
-<p>👋 Hi, I'm Kaushal Jain.</p>
-<p>Full Stack Developer skilled in Python, Django, DRF, React and SQL.</p>
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-</a>
+<br />
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-</a>
-
-<!-- Machine Learning Libraries -->
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
-</a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Kaushal+Jain...&font=Inter&size=48&height=80&width=600&color=00FFFF" 
+  />
 </p>
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,pytorch,tensorflow,react,nodejs,express,fastapi,django,mysql,mongodb,postgresql,git,github,docker" />
+</p>
+
+## About Me
+- 🌱 **Exploring:** Python, Agentic AI, Deep Learning, Django, LangChain, Deep Agents.
+- 🧠 **Interests:** Full-stack development, agentic AI applications, machine learning, and neural networks.
+- 🛠️ **Core Skills:** Python, FastAPI, LangChain, LangGraph, DRF, React.js.
+- 🤝 **Open to collaborate on:** Full-stack SaaS products and AI integrations.
+- 📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/kaushal-jain-kj555/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
